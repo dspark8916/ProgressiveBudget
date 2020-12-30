@@ -48,7 +48,8 @@ Please check out the following link to see the finished product:
 
 ![]()
 
-![]()
+Vacation Budget Example:
+![Vacation Budget](public/assets/images/VacationBudget.png)
 
 ![]()
 
