@@ -24,7 +24,7 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 
 ## Usage
 
-
+The purpose of this app is to allow the user to have offline access to a Budget Tracker. The user will be able to add expenses and deposits to their budget with or without a connection. If transactions are added while the user is offline they will then populate and be shown when their connection is back online. 
 
 ## Contributing
 
