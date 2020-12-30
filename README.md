@@ -2,7 +2,7 @@
 
 ## Description
 
-
+The objective this week was to create a Progressive Budget Tracker. This app will give the user a fast and easy way to track their money and give them access to the information at any time. This app will allow the user to add expenses and deposits to their budget with or without an internet connection and make sure their balance is accurate. That is especially paramount if the user is traveling and does not have an internet connection, as this app will take the worry out of trying to find an internet connection and give you peace of mind while keeping track of your finances. 
 
 ## User Story
 
