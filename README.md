@@ -46,12 +46,11 @@ Please check out the following link to see the finished product:
 
 ## ScreenShots
 
-![]()
+Blank Budget on Page Load:
+![Blank Budget](public/assets/images/BlankBudget.png)
 
 Vacation Budget Example:
 ![Vacation Budget](public/assets/images/VacationBudget.png)
-
-![]()
 
 ## Contact
 If you have any questions regarding this project and would like to reach out to me please feel free to do so at the following email: dimitarm01@gmail.com. Thank you.
